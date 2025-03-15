@@ -1,5 +1,6 @@
 ---
 share: "true"
+title: 【C语言】代码抽象技巧
 ---
 
 
