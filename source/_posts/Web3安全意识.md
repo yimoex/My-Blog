@@ -1,5 +1,6 @@
 ---
 share: "true"
+title: Web3安全意识
 ---
 
 ## 观前FAQ
