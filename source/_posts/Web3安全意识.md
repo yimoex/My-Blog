@@ -171,6 +171,8 @@ Uniswap采用自动化做市商（AMM模型），在一个流动性池，通过�
 
 > 这里放了一些参考资料和相关链接，感兴趣的朋友可以继续进行阅读
 
+一位佬在TG中被提到用TON交易： https://linux.do/t/topic/494798/10
+
 infini资金丢失后的官方发言：[https://x.com/0xinfini/status/1894401496508502099](https://x.com/0xinfini/status/1894401496508502099)
 
 TLS加密： [https://en.wikipedia.org/wiki/Transport_Layer_Security](https://en.wikipedia.org/wiki/Transport_Layer_Security)
